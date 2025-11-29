@@ -1,4 +1,4 @@
-<h1 align="center">Estructura de Datos — Unidad 2 </h1>
+<h1 align="center">Estructura de Datos — Unidad 3 </h1>
 
 ## Ejercicios Guiados
 ## Repositorio elaborado por Manuel Tavares
